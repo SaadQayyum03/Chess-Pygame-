@@ -1,7 +1,7 @@
 # Chess-Pygame
 
 Requirements
-- need to have the pygame library installed (use "pip install pygame" if you are below version 2.7 and "pip3 install pygame" if you are above python version 3)
+- Need to have the pygame library installed (use "pip install pygame" if you are below version 2.7 and "pip3 install pygame" if you are above python version 3)
 - Python (above 2.7, you can download from https://www.python.org/ or the microsoft store, if on ubuntu use "sudo apt install python")
 
 
